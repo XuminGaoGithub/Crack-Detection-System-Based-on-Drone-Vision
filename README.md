@@ -70,3 +70,7 @@ We use image processing method (the adaptive threshold segmentation) to segment 
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/2.png)
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/3.png)
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/4.png)
+
+![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/1.png)
+
+
