@@ -67,12 +67,14 @@ Xumin Gao, Bin Lei, Pengcheng Xu (Institute of Robotics and Intelligent Systems,
 We use image processing method (the adaptive threshold segmentation) to segment the cracks. At the same time, we extract some significant features (area, the horizontal and vertical integral projection, distribution density   of crack in images) to train the classifier, which can recognize different types of cracks. Finally, we use ultrasonic data and the triangle rule to calculate the width and area of cracks in the actual environment.
 
 1.Crack Detection
+
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/1.png)
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/2.png)
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/3.png)
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/4.png)
 
 2.Crack Detection System Based on Drone Vision
+
 ![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/1.png)
 
 
