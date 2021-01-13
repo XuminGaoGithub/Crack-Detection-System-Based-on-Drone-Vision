@@ -1,6 +1,8 @@
 #Crack Detection System Based on Drone Vision
 
-#Authur：Xumin Gao, Bin Lei (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China)
+#Authur：
+
+Xumin Gao, Bin Lei, Xu Pengcheng (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China)
 
 
 #E-mail: comin15071460998@gmail.com
@@ -63,3 +65,8 @@
 #Abstract
 
 We use image processing method (the adaptive threshold segmentation) to segment the cracks. At the same time, we extract some significant features (area, the horizontal and vertical integral projection, distribution density   of crack in images) to train the classifier, which can recognize different types of cracks. Finally, we use ultrasonic data and the triangle rule to calculate the width and area of cracks in the actual environment.
+
+![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/1.png)
+![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/2.png)
+![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/3.png)
+![Image text](https://github.com/XuminGaoGithub/Crack-Detection-System-Based-on-Drone-Vision/blob/main/Report/4.png)
