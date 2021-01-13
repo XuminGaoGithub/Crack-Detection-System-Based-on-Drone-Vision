@@ -2,7 +2,7 @@
 
 #Authur：
 
-Xumin Gao, Bin Lei, Xu Pengcheng (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China)
+Xumin Gao, Bin Lei, Pengcheng Xu (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China)
 
 
 #E-mail: comin15071460998@gmail.com
